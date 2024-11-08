@@ -17,6 +17,7 @@
 > 
 >L'application  ne nécessite pour l'instant aucun rendu visuel spécifique.
 
+<br>
 
 Trois pages sont nécessaires à cela :
 
@@ -33,14 +34,14 @@ Trois pages sont nécessaires à cela :
 
     <ul>
         <li>Traitera la requête provenant de la page index.php (après soumission du formulaire)</li>
-        <li>ajoutera le produit avec son nom, son prix, sa quantité et le total calculé (prix × quantité) en session.</li>
+        <li>Ajoutera le produit avec son nom, son prix, sa quantité et le total calculé (prix × quantité) en session.</li>
     </ul>
 
       
 3. recap.php
       <ul>
         <li>Affichera tous les produits en session (et en détail)</li>
-        <li>présentera le total général de tous les produits ajoutés.</li>
+        <li>Présentera le total général de tous les produits ajoutés.</li>
       </ul>
 
 <br>

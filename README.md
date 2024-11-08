@@ -47,12 +47,12 @@ Trois pages sont nécessaires à cela :
 
 ### ⚙️ Langages utilisés ⚙️ ###
 
-<img src="https://skillicons.dev/icons?i=php,github"/>
+<img src="https://skillicons.dev/icons?i=html,php,github"/>
 
 <br>
-<!-- 
+
 ### Preview : ###
-<img src="Preview.gif"></img> -->
+<img src="Preview.gif"></img>
 
 <br>
 
